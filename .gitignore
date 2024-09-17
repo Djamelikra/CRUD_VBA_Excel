@@ -1,0 +1,4 @@
+# Ignorer tous les fichiers d'extension ".tmp"
+*.tmp
+# Ignorer tout le contenu du répertoire suivant
+/WorkItems
