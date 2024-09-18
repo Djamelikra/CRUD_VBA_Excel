@@ -1,5 +1,6 @@
 # Tous les fichiers d'extensions:
-*.tmp, *.docx
+*.tmp
+*.docx
 # Tout le contenu du répertoire suivant:
 /WorkItems
 # Tout le contenu du répertoire suivant:
