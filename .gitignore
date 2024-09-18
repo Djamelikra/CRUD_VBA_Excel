@@ -1,6 +1,6 @@
-# Ignorer tous les fichiers d'extension ".tmp"
-*.tmp
-# Ignorer tout le contenu du répertoire suivant:
+# Tous les fichiers d'extensions:
+*.tmp, *.docx
+# Tout le contenu du répertoire suivant:
 /WorkItems
-# Ignorer tout le contenu du répertoire suivant:
+# Tout le contenu du répertoire suivant:
 /Temp
