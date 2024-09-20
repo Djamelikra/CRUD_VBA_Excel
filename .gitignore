@@ -2,6 +2,7 @@
 *.tmp
 *.docx
 *.xlsb
+*.one
 # Tout le contenu du répertoire suivant:
 /WorkItems
 # Tout le contenu du répertoire suivant:
